@@ -2,6 +2,7 @@ package core.basesyntax.Report;
 
 import core.basesyntax.Model.Fruit;
 import core.basesyntax.db.Storage;
+
 import java.util.Map;
 
 public class ReportMakerImpl implements ReportMaker {

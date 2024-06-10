@@ -3,11 +3,10 @@ package core.basesyntax.WorkWithFile;
 import core.basesyntax.Model.Fruit;
 import core.basesyntax.Model.FruitTransaction;
 
-public class DataConverterImpl implements DataConverter{
+public class DataConverterImpl implements DataConverter {
     private static final int OPERATION = 0;
     private static final int FRUIT_NAME = 1;
     private static final int QUANTITY = 2;
-
 
 
     @Override
